@@ -1,7 +1,6 @@
 commit1
-<<<<<<< HEAD
 commit2
 commit4
-=======
 commit3
->>>>>>> hotfix
+commit5
+commit7
